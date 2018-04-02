@@ -2,6 +2,8 @@
 
 This is sample application written in SpringBoot, which use Jersey for REST end points. 
 
+Demo example for my talk https://www.slideshare.net/VladimirDejanovic2/protocol-buffers-and-microservices
+
 This is demo application which demonstrate very simple end points
 
 - Plain Text
